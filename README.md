@@ -13,5 +13,4 @@ My name is Hadi Gunawan. I like to learn new things everyday
 
 
 ---
-[[![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadigun007)](https://github.com/hadigun007/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadigun007&layout=donut)](https://github.com/hadigun007/github-readme-stats)
