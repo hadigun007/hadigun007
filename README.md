@@ -12,6 +12,6 @@ My name is Hadi Gunawan. I like to learn new things everyday
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadigun007%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 
-
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadigun007)](https://github.com/hadigun007/github-readme-stats)
+[[![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadigun007)](https://github.com/hadigun007/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
+
