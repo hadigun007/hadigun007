@@ -17,5 +17,5 @@ GitHub Analytics
 ![Hadi Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadigun007\&rank_icon=github)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadigun007&layout=donut)](https://github.com/hadigun007/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadigun007&layout=donut)](https://github.com/hadigun007/github-readme-stats)
 
